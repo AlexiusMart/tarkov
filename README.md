@@ -1,1 +1,0 @@
-## Игровой портал по игре Escape from Tarkov
