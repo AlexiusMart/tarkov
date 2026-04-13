@@ -21,7 +21,10 @@
   },
   "pnpm": {
     "overrides": {
-      "flatted": "latest"
+      "flatted": "latest",
+      "glob@10.3.16": "10.5.0",
+      "minimatch@9.0.4": "9.0.9",
+      "nanoid@3.3.7": "3.3.8"
     }
   }
 }
